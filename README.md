@@ -1,2 +1,2 @@
 # Wristwise
-Wristwise is an app which helps you find the right watch for you, it has a built in ''Find your watch'' feature that asks you a set of questions and finds the right one for you. If you are looking for your first watch, or even if your experienced in watches, this is the right website for you.
+Wristwise is an independent watch recommendation site. Take a nine-question quiz and we work out which case metals and dial colours flatter your skin, what size fits your wrist, and which real watches match your taste and budget. We link to Amazon to buy. As an Amazon Associate we earn from qualifying purchases.
